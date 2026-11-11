@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>recytrack_logo.png</file>
+        <file>photos/login_bg.png</file>
+        <file>photos/statBtn.png</file>
+        <file>photos/employeeReturnBtn.png</file>
+    </qresource>
+</RCC>

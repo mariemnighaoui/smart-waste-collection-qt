@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/sidebarRess">
+        <file>sideBarImage/logout.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>sideBarImage/recytrack_logo.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>photos/employeeReturnBtn.png</file>
+        <file>photos/login_bg.png</file>
+        <file>photos/statBtn.png</file>
+        <file>recytrack_logo.png</file>
+        <file>photos/returnBtn.png</file>
+        <file>photos/search_icon.png</file>
+	<file>sideBarImage/output-smallpngtools (1).png</file>
+    </qresource>
+</RCC>
