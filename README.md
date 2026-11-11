@@ -29,7 +29,8 @@ A desktop application (Qt/C++, Oracle database) for managing a waste-collection 
 
 ## My contribution
 
-[À COMPLÉTER – list the modules you personally wrote, e.g. "Client module: CRUD, loyalty points, search, messaging and Arduino voice control." Be precise: the repository covers the whole team's work.]
+Client module: CRUD, loyalty points, search, messaging and Arduino voice control.
+the repository covers the whole team's work.
 
 ## Configuration (required to run)
 
@@ -43,19 +44,7 @@ Never commit real keys.
 ## Build
 
 1. Install Qt 6 with Qt Creator and the Oracle ODBC driver, and create the ODBC data source.
-2. Create the Oracle tables used by the application [À COMPLÉTER – SQL script if you have one].
+2. Create the Oracle tables used by the application
 3. Open `WasteRecycling.pro` in Qt Creator, then build and run.
 4. For voice control: connect the Arduino board (USB serial) and a microphone.
 
-## Screenshots
-
-[À COMPLÉTER – add screenshots in a `screenshots/` folder:]
-
-```markdown
-![Clients](screenshots/clients.png)
-![Statistics](screenshots/stats.png)
-```
-
-## Team
-
-[À COMPLÉTER – teammates' names, if they agree to be listed.]
